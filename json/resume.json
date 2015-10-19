@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Samir Kumar",
+    "label": "Regional Product Manager",
+    "picture": "",
+    "email": "samirkumar.28@gmail.com",
+    "phone": "+65-85108536",
+    "website": "",
+    "summary": "Samir hails from Delhi. He has earned degrees from the National University of Singapore and Guru Nanak Dev Engg. College. Before starting work at Zalora, he at computer sciences corportation as an android developer. While his work focuses on digital marketing, analytics and cross platform attribution, android development his non-work interests range widely, everything from playing football to travelling to the highest motorable road on the planet. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "thesamirkumar",
+        "url": "https://twitter.com/thesamirkumar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kumsam",
+        "url": "https://sg.linkedin.com/in/kumsam"
+      },
+      {
+        "network": "Github",
+        "username": "kumarsamir",
+        "url": "https://github.com/kumarsamir"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Rocket Internet/Zalora",
+      "position": "Regional Product Manager",
+      "website": "http://www.zalora.com",
+      "startDate": "Jun 2014",
+      "endDate": "Present",
+      "summary": "Product owner for cross-platform analytics, digital marketing(online+mobile) & Promotions departments of Zalora’s product portfolio for 9 countries in SEA region.",
+      "highlights": [
+        "Implemented cross-device tracking and cross device attribution. (http://goo.gl/jynDBg)",
+        "Increased our logged in sessions/engagement using cross device user identification stitching.(Press Release:- http://goo.gl/jynDBg)",
+        "Managed cross–functional and hybrid agile development and QA teams viz. PHP, Android, iOS",
+        "Managed to implement online and offline order attribution with our brick and mortar stores across the region. (Press Release:- http://goo.gl/FdqHhe)"
+      ]
+    },
+    {
+      "company": "Rocket Internet/Zalora",
+      "position": "Product Management- Intern",
+      "website": "http://marketplace.zalora.com/",
+      "startDate": "Dec 2013",
+      "endDate": "Mar 2014",
+      "summary": "Product owner for the company's SCRUM/Agile team developing new features for our global fashion e-commerce marketplace operational in 9 countries.",
+      "highlights": [
+        "Responsible for launching Zalora marketplace and the seller center of our product portfolio.",
+        "Zalora was the first SEA venture to launch a C2C marketplace"
+      ]
+    },
+    {
+      "company": "Computer Sciences Corporation",
+      "position": "Android Developer",
+      "website": "http://www.csc.com",
+      "startDate": "Jul 2011",
+      "endDate": "Dec 2012",
+      "summary": "Android developer for a hybrid mobile app for the healthcare and paramedical industry based in Scandinavia.",
+      "highlights": [
+        "Helped in effectuating Vitae’s Handheld 3 app sync and efficiency of DK Health Agencies by ~10%. ",
+        "Principal UI/UX expert on the app. ",
+        "Implemented better sync while helping doctors/nurses get better connectivity in remote regions in DK. ",
+        "Trained as Java programming intern and scored in the top 2% of the intern recruits. ",
+        "Worked on integration with external libs such as QR code, SMS, Email, LBS, Maps and Camera API. ",
+        "mproved on SQLite query and app scalability performance and profiling using DDMS and MAT eclipse plugin."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "area": "Software Engineering",
+      "studyType": "Masters",
+      "startDate": "Jan 2013",
+      "endDate": "May 2014",
+      "gpa": "3.7",
+      "courses": [
+        "CS6234 : Advanced Algorithms  ",
+        "SG5101 : OO Analysis & Design",
+        "SG5102 : Software Project Management"
+      ]
+    },
+    {
+      "institution": "Guru Nanak Dev Engineering College",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "July 2007",
+      "endDate": "May 2011",
+      "gpa": "8.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Digital Marketing",
+      "level": "Master",
+      "keywords": [
+        "Mobile marketing",
+        "SEM/SEO",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Techincal",
+      "level": "Master",
+      "keywords": [
+        "Android Development",
+        "Play Store",
+        "Material Design",
+        "Web Development"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travelling",
+      "keywords": [
+        "Wanderlust"
+      ]
+    },
+    {
+      "name": "Football",
+      "keywords": [
+        "Manchester United"
+      ]
+    },
+    {
+      "name": "Product Management",
+      "keywords": [
+        "Product Design"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "CTO - Zalora Group",
+      "reference": "Karthik Subramanian"
+    },
+    {
+      "name": "Managing Director - Zalora Group",
+      "reference": "Tito Costa"
+    },
+    {
+      "name": "Chief, MTech, ISS-NUS",
+      "reference": "Swarnalata Ashok"
+    }
+  ]
+}
