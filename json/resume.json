@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Samir Kumar",
-    "label": "Regional Product Manager",
-    "picture": "",
+    "label": "Product Manager",
+    "picture": "https://igcdn-photos-h-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e35/11376200_438893342965631_161142285_n.jpg",
     "email": "samirkumar.28@gmail.com",
     "phone": "+65-85108536",
     "website": "",
     "summary": "Samir hails from Delhi. He has earned degrees from the National University of Singapore and Guru Nanak Dev Engg. College. Before starting work at Zalora, he at computer sciences corportation as an android developer. While his work focuses on digital marketing, analytics and cross platform attribution, android development his non-work interests range widely, everything from playing football to travelling to the highest motorable road on the planet. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "#12-443 Block 203",
+      "postalCode": "Bishan Street 23",
+      "city": "",
+      "countryCode": "Singapore -570203",
+      "region": ""
     },
     "profiles": [
       {
@@ -29,6 +29,11 @@
         "network": "Github",
         "username": "kumarsamir",
         "url": "https://github.com/kumarsamir"
+      },
+      {
+        "network": "Instagram",
+        "username": "sierra.kilo90",
+        "url": "https://instagram.com/sierra.kilo90/"
       }
     ]
   },
@@ -156,16 +161,4 @@
   ],
   "references": [
     {
-      "name": "CTO - Zalora Group",
-      "reference": "Karthik Subramanian"
-    },
-    {
-      "name": "Managing Director - Zalora Group",
-      "reference": "Tito Costa"
-    },
-    {
-      "name": "Chief, MTech, ISS-NUS",
-      "reference": "Swarnalata Ashok"
-    }
-  ]
-}
+      "name": "CTO - Za
