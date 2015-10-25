@@ -1,4 +1,4 @@
-# resume
+# Resume
 1. Used the website at http://jsonresume.org/
 2. Created online resume editor to construct a JSON file.
 3. Downloaded the corresponding JSON.
