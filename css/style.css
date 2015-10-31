@@ -1,0 +1,92 @@
+html {
+    margin: 0% 10% 0% 10%;
+    background: #ffffff;
+    position: relative;
+    min-height: 100%;
+}
+    
+body {
+    background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 80px;
+}
+
+.nav li.head-title {
+    font-weight: 500;
+    font-size: 36px;
+    color: #333;
+    padding: 0 !important;
+}
+
+.nav li {
+    padding-top: 20px;
+    font-size: 18px;
+}
+.title {
+    color: #939393;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+.navbar-brand>img {
+    display: inline;
+    height: 100%;
+}
+
+.logo {
+    display: inline;
+    vertical-align: bottom;
+}
+
+.text-muted {
+    color: #777;
+}
+
+.tweets {
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+    
+    header {
+        position: fixed;
+        background: #ffffff;
+        top: 0;
+        width: 100%;
+    }
+    h2.section-title {
+        font-size: 1.8em;
+        margin-left: 30px;
+    }
+    .avatar {
+        margin-top: 0px;
+        max-width: 95%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-brand {
+        width: 85%;
+    }
+    .navbar-brand>img {
+        display: inline;
+        width: 7%;
+        height: 100%;
+    }
+    h2.section-title {
+        font-size: 2.2em;
+        line-height: 1.6em;
+        margin-bottom: 1.4em;
+    }
