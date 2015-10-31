@@ -90,3 +90,6 @@ body {
         line-height: 1.6em;
         margin-bottom: 1.4em;
     }
+    .nav li {
+    padding-top: 20px;
+    }
