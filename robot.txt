@@ -1,1 +1,2 @@
-
+Sitemap: http://www.kumarsamir.com/sitemap.xml
+User-agent: *
